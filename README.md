@@ -6,9 +6,9 @@
 
 ### Many thanks to: [Claudiu Daniel Hromei](https://scholar.google.it/citations?user=YQRKKFoAAAAJ&hl=it) for supporting the development of (most of the) code
 
-This repository hosts materials from the Tutorial held in the [Summer School Andvances in AI 2024](https://sites.google.com/unimib.it/advancesinai-2024/) organized by the [AIxIA](https://aixia.it/). 
+This repository hosts materials from the Lecture held in the [Summer School Andvances in AI 2024](https://sites.google.com/unimib.it/advancesinai-2024/) organized by the [AIxIA](https://aixia.it/). 
 
-The **objective of this tutorial** is:
+The **objective of this lecture** is:
 
 * **Introduce Transformer-based architectures**, including encoding-decoding, encoder-only, and decoder-only structures.
 * **Demonstrate fine-tuning of Large Language Models** (LLMs) on diverse datasets in a multi-task framework.
@@ -22,7 +22,7 @@ The repository includes code for fine-tuning a Large Language Model (based on [L
 
 ### Lab : Fine-tune a LLaMA-based model for all tasks from EVALITA 2023
 
-At the end, this tutorial shows how to encode data from different tasks into specific prompts and fine-tune the LLM using [Q-LoRA](https://arxiv.org/abs/2305.14314). The code can be also used in Google Colab using an Nvidia-T4 GPU with 15GB memory.
+At the end, this lecture shows how to encode data from different tasks into specific prompts and fine-tune the LLM using [Q-LoRA](https://arxiv.org/abs/2305.14314). The code can be also used in Google Colab using an Nvidia-T4 GPU with 15GB memory.
 
 The code is heavily based on the one used in ExtremITA system participating to EVALITA 2023:
 
@@ -39,11 +39,11 @@ The overall process is divided in four steps:
 
 ## Slides
 
-The repository also features **tutorial slides** ([LINK](advances-in-ai-2024_nlp.pdf)).
+The repository also features **slides** ([LINK](advances-in-ai-2024_nlp.pdf)).
 
 ## Excercise
 
-An excercise is proposed in the last slides of the [slides](advances-in-ai-2024_nlp.pdf).
+An excercise is proposed in the last slides of the [presentation](advances-in-ai-2024_nlp.pdf).
 
 ## Contacts
 
